@@ -1,27 +1,23 @@
 {
-    "name":"Example Listing",
-    "id":"com.vrchat.example-listing",
+    "name":"Rantys Facetracking Prefabs",
+    "id":"rantis.vrcft.vcc-listing",
     "url":"https://vrchat-community.github.io/template-package-listing/index.json",
     "author":{
-        "email":"developer@vrchat.com",
-        "name":"VRChat",
-        "url":"https://hello.vrchat.com"
+        "email":"aug550@gmail.com",
+        "name":"Rantis",
+        "url":""
     },
-    "description":"Example listing of VRChat packages",
+    "description":"Alpha FT listing",
     "infoLink":{
-        "url":"http://github.com/vrchat-community/template-package-listing",
+        "url":"http://github.com/RantiMess/Rantys-Facetacking-VCCListing",
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
-    "githubRepos":[
-        "vrchat-community/clientsim"
-    ],
     "packages":[
         {
-            "name":"com.vrchat.udonsharp",
+            "name":"rantis.vrcft.prefabs",
             "releases":[
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.7/com.vrchat.UdonSharp.zip",
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.6/com.vrchat.UdonSharp-1.1.6.zip"
+                "https://github.com/RantiMess/Rantys-Facetracking-Prefabs/releases/download/0.0.1/rantis.vrcft.prefabs-0.0.1.zip"
             ]
         }
     ]
